@@ -8,6 +8,8 @@ Soma
     Essa função pede para o usuário colocar valores de duas variaveis( valor1 e valor2). A variavel (result) ira somar
     as duas variaveis que o usuário digitou e armazenar em si mesmo. E por fim irá imprimir o resultado na tela e chamará
     o menu novamente para que o usuário possa fazer uma nova operação ou apenas sair do programa.
+
+===============
 */
 
 void Soma ( void ) { //funcao Soma
@@ -28,6 +30,8 @@ Subtrair
     Essa função pede para o usuário colocar valores de duas variaveis( valor1 e valor2). A variavel (result) ira subtrair
     as duas variaveis que o usuário digitou e armazenar em si mesmo. E por fim irá imprimir o resultado na tela e chamará
     o menu novamente para que o usuário possa fazer uma nova operação ou apenas sair do programa.
+
+===============
 */
 void Subtrai( void ) { 
     float valor1, valor2, result;
@@ -47,6 +51,8 @@ Divide
     Essa função pede para o usuário colocar valores de duas variaveis( valor1 e valor2). A variavel (result) ira dividir
     as duas variaveis que o usuário digitou e armazenar em si mesmo. E por fim irá imprimir o resultado na tela e chamará
     o menu novamente para que o usuário possa fazer uma nova operação ou apenas sair do programa.
+
+===============   
 */
 void Divide( void ) {
     float valor1, valor2, result;
@@ -66,6 +72,8 @@ Multiplica
     Essa função pede para o usuário colocar valores de duas variaveis( valor1 e valor2). A variavel (result) ira multiplicar
     as duas variaveis que o usuário digitou e armazenar em si mesmo. E por fim irá imprimir o resultado na tela e chamará
     o menu novamente para que o usuário possa fazer uma nova operação ou apenas sair do programa.
+
+===============
 */
 void Multiplica( void ) { //funcao multiplica
     float valor1, valor2, result;
@@ -82,6 +90,8 @@ void Multiplica( void ) { //funcao multiplica
 Menu 
 
     Irá imprimir um menu para que o usuário possa decidir a operação que deseja realizar
+
+===============
 */
 
 void Menu( void ){
