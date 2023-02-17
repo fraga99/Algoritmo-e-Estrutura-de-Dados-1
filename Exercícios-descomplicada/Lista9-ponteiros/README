@@ -2,3 +2,37 @@
 teiro, real, e char. Associe as variaveis aos ponteiros (use &). Modifique os valores de
 cada variavel usando os ponteiros. Imprima os valores das variaveis antes e apos a
 modificação.
+
+2. Escreva um programa que contenha duas vari  ́aveis inteiras. Compare seus enderec ̧os e
+exiba o maior enderec ̧o.
+
+3. Escreva um programa que contenha duas vari  ́aveis inteiras. Leia essas vari  ́aveis do
+teclado. Em seguida, compare seus enderec ̧os e exiba o conte  ́udo do maior enderec ̧o.
+
+4. Fac ̧a um programa que leia 2 valores inteiros e chame uma func ̧  ̃ao que receba estas
+2 vari  ́aveis e troque o seu conte  ́udo, ou seja, esta func ̧  ̃ao  ́e chamada passando duas
+vari  ́aveis A e B por exemplo e, ap  ́os a execuc ̧  ̃ao da func ̧  ̃ao, A conter  ́a o valor de B e B
+ter  ́a o valor de A.
+
+5. Fac ̧a um programa que leia dois valores inteiros e chame uma func ̧  ̃ao que receba estes
+2 valores de entrada e retorne o maior valor na primeira vari  ́avel e o menor valor na
+segunda vari  ́avel. Escreva o conte  ́udo das 2 vari  ́aveis na tela.
+
+6. Elaborar um programa que leia dois valores inteiros (A e B). Em seguida fac ̧a uma func ̧  ̃ao
+que retorne a soma do dobro dos dois n  ́umeros lidos. A func ̧  ̃ao dever  ́a armazenar o dobro
+de A na pr  ́opria vari  ́avel A e o dobro de B na pr  ́opria vari  ́avel B.
+
+7. Crie um programa que contenha uma func ̧  ̃ao que permita passar por par ˆametro dois
+n  ́umeros inteiros A e B. A func ̧  ̃ao dever  ́a calcular a soma entre estes dois n  ́umeros e
+armazenar o resultado na vari  ́avel A. Esta func ̧  ̃ao n  ̃ao dever  ́a possuir retorno, mas dever  ́a
+modificar o valor do primeiro par  ̃ametro. Imprima os valores de A e B na func ̧  ̃ao principal.
+
+8. Crie um programa que contenha um array de float contendo 10 elementos. Imprima o
+enderec ̧o de cada posic ̧  ̃ao desse array.
+
+9. Crie um programa que contenha uma matriz de float contendo 3 linhas e 3 colunas.
+Imprima o enderec ̧o de cada posic ̧  ̃ao dessa matriz.
+
+10. Crie um programa que contenha um array de inteiros contendo 5 elementos. Utilizando
+apenas aritm  ́etica de ponteiros, leia esse array do teclado e imprima o dobro de cada
+valor lido.
