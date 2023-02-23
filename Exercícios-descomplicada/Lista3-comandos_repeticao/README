@@ -1,0 +1,22 @@
+1. Fac ̧a um programa que determine o mostre os cinco primeiros m  ́ultiplos de 3, conside-
+rando n  ́umeros maiores que 0.
+
+2. Escreva um programa que escreva na tela, de 1 at  ́e 100, de 1 em 1, 3 vezes. A primeira
+vez deve usar a estrutura de repetic ̧  ̃ao f or, a segunda while, e a terceira do while.
+
+3. Fac ̧a um algoritmo utilizando o comando while que mostra uma contagem regressiva
+na tela, iniciando em 10 e terminando em 0. Mostrar uma mensagem “FIM!” ap  ́os a
+contagem.
+
+4. Escreva um programa que declare um inteiro, inicialize-o com 0, e incremente-o de 1000
+em 1000, imprimindo seu valor na tela, at  ́e que seu valor seja 100000 (cem mil).
+
+5. Fac ̧a um programa que pec ̧a ao usu  ́ario para digitar 10 valores e some-os.
+
+6. Fac ̧a um programa que leia 10 inteiros e imprima sua m  ́edia.
+
+7. Fac ̧a um programa que leia 10 inteiros positivos, ignorando n  ̃ao positivos, e imprima sua
+m  ́edia.
+
+8. Escreva um programa que leia 10 n  ́umeros e escreva o menor valor lido e o maior valor
+lido.
