@@ -1,0 +1,27 @@
+1. O que significa alocac ̧  ̃ao sequencial de mem  ́oria para um conjunto de elementos? 
+
+    Alocação de memória, consiste no processo de solicitar/utilizar memória durante o processo de exercução
+    de um programa de computador.
+
+2. O que significa alocação estática de memória para um conjunto de elementos?
+
+    A alocação estática ocorre com variáveis globais (alocadas fora de funções) ou quando variaveis locais (internas a uma função)
+    são alocadas usando o modificador "static".
+
+3. Qual a diferença entre alocação sequencial e alocação encadeada?
+
+    Na alocação encadeada, é preciso que os elementos sejam alocados fisicamente na memória. Não existe diferença entre as duas
+    maneiras de alocação. A alocação sequencial não é necessariamente alocada em sequencia fisicamente.
+
+
+4. Quais as vantagens de se utilizar alocação encadeada para um conjunto de elementos? Quais as possíveis desvantagens?
+    
+    Uma vangatem é o ganho de desempenho em termos de velocidade nas inclusões e remoções dos elementos. 
+    Uma grande desvantagem é que uma quantidade fixa de armazenamento permanece alocada para a lista,
+    mesmo quando a estrutura estiver de fato usando uma quantidade menor ou possivelmente nenhum armazenamento.
+
+
+5. Qual a diferença entre alocação estática e alocação dinâmica?
+
+    Na alocação estática, o espaço de memória é definido durante o processo de compilação, já na alocação dinamica
+    o espaço de memória é reservado durante a execução do programa.
